@@ -1,2 +1,5 @@
 xml configuration for Ipac boards
 Use https://www.arcadeworlduk.com/content/winipacv2setup.exe to get access to the boards and make sure to change configuration to keyboard from gamepad.
+
+More details about ipac
+https://retropie.org.uk/forum/topic/8987/guide-setting-up-a-retropie-controls-using-ipac2-controller-extensive-tutorial-preconfigured-files
